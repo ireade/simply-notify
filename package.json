@@ -1,0 +1,8 @@
+{
+  "name": "simply-notify",
+  "version": "1.0.0",
+  "description": "A simple application to send notifications to everyone subscribe. It's simple. It's useless. It's simply notify.",
+  "main": "js/main.js",
+  "author": "Ire Aderinokun",
+  "license": "ISC"
+}
