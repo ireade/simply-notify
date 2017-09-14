@@ -4,6 +4,7 @@
   --bg-color: rgb(229, 236, 240);
   --theme-color: rgb(0, 162, 249);
   --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --font-size: 1.6rem;
 }
 
 /* Type ======================== */
@@ -15,7 +16,7 @@ html {
 body {
   background-color: var(--bg-color);
   font-family: var(--font-family);
-  font-size: 1.6rem;
+  font-size: var(--font-size);
   line-height: 1.5;
 }
 
@@ -125,7 +126,7 @@ form textarea {
   width: 100%;
   padding: 15px;
   font-family: var(--font-family);
-  font-size: 1.6rem;
+  font-size: var(--font-size);
   background-color: var(--bg-color);
   border: 0;
 }
