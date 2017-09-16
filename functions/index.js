@@ -6,13 +6,11 @@ exports.sendNotifications = functions.database.ref('/notifications/{notification
 
   // Exit if data already created
   if (event.data.previous.val()) {
-    console.error("Data already created");
     return;
   }
 
   // Exit when the data is deleted
   if (!event.data.exists()) {
-    console.error("Data is deleted");
     return;
   }
 

@@ -1,13 +1,19 @@
 {
   "rules": {
     "tokens": {
-      ".indexOn": ["token", "uid"],
+      ".indexOn": ["uid", "token"],
       ".read": "auth != null",
-      ".write": "auth != null"
+      ".write": "auth != null",
+      "$token": {
+        ".validate": "newData.hasChildren(['uid', 'token']) && newData.child('uid').val() == auth.uid"
+      }
     },
     "notifications": {
       ".read": "auth != null",
-      ".write": "auth != null"
+      ".write": "auth != null",
+      "$notification": {
+        ".validate": "newData.hasChildren(['user', 'message', 'userProfileImg'])"
+      }
     }
   }
 }
