@@ -17,7 +17,7 @@ You can watch how this application was made by following along with the video se
       <!-- Video 1 -->
       <td align="center">
         <a href="">
-          <img width="290" alt="Simply Notify" src="https://user-images.githubusercontent.com/8677283/30519696-870648d4-9b94-11e7-8180-ca35f2813528.png">
+          <img width="290" alt="Simply Notify" src="http://bitsofco.de/content/images/2017/09/Thumbnail-1.png">
           <br>
           Introduction & Firebase Setup
         </a>
@@ -25,7 +25,7 @@ You can watch how this application was made by following along with the video se
       <!-- Video 2 -->
       <td align="center">
         <a href="">
-          <img width="290" alt="Simply Notify" src="https://user-images.githubusercontent.com/8677283/30519696-870648d4-9b94-11e7-8180-ca35f2813528.png">
+          <img width="290" alt="Simply Notify" src="http://bitsofco.de/content/images/2017/09/Thumbnail-2.png">
           <br>
           Authentication
         </a>
@@ -33,7 +33,7 @@ You can watch how this application was made by following along with the video se
       <!-- Video 3 -->
       <td align="center">
         <a href="">
-          <img width="290" alt="Simply Notify" src="https://user-images.githubusercontent.com/8677283/30519696-870648d4-9b94-11e7-8180-ca35f2813528.png">
+          <img width="290" alt="Simply Notify" src="http://bitsofco.de/content/images/2017/09/Thumbnail-3.png">
           <br>
           Notification Subscriptions
         </a>
@@ -43,7 +43,7 @@ You can watch how this application was made by following along with the video se
       <!-- Video 4 -->
       <td align="center">
         <a href="">
-          <img width="290" alt="Simply Notify" src="https://user-images.githubusercontent.com/8677283/30519696-870648d4-9b94-11e7-8180-ca35f2813528.png">
+          <img width="290" alt="Simply Notify" src="http://bitsofco.de/content/images/2017/09/Thumbnail-4.png">
           <br>
           Creating & Saving Messages
         </a>
@@ -51,7 +51,7 @@ You can watch how this application was made by following along with the video se
       <!-- Video 5 -->
       <td align="center">
         <a href="">
-          <img width="290" alt="Simply Notify" src="https://user-images.githubusercontent.com/8677283/30519696-870648d4-9b94-11e7-8180-ca35f2813528.png">
+          <img width="290" alt="Simply Notify" src="http://bitsofco.de/content/images/2017/09/Thumbnail-5.png">
           <br>
           Sending Web Notifications
         </a>
@@ -59,7 +59,7 @@ You can watch how this application was made by following along with the video se
       <!-- Video 6 -->
       <td align="center">
         <a href="">
-          <img width="290" alt="Simply Notify" src="https://user-images.githubusercontent.com/8677283/30519696-870648d4-9b94-11e7-8180-ca35f2813528.png">
+          <img width="290" alt="Simply Notify" src="http://bitsofco.de/content/images/2017/09/Thumbnail-6.png">
           <br>
           Database Security & Optimisations
         </a>
