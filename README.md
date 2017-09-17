@@ -16,7 +16,7 @@ You can watch how this application was made by following along with the video se
     <tr>
       <!-- Video 1 -->
       <td align="center">
-        <a href="">
+        <a href="https://www.youtube.com/watch?v=XdzXaW8IbBM">
           <img width="290" alt="Simply Notify" src="http://bitsofco.de/content/images/2017/09/Thumbnail-1.png">
           <br>
           Introduction & Firebase Setup
@@ -24,7 +24,7 @@ You can watch how this application was made by following along with the video se
       </td>
       <!-- Video 2 -->
       <td align="center">
-        <a href="">
+        <a href="https://www.youtube.com/watch?v=cnwuYeCqni0">
           <img width="290" alt="Simply Notify" src="http://bitsofco.de/content/images/2017/09/Thumbnail-2.png">
           <br>
           Authentication
@@ -32,7 +32,7 @@ You can watch how this application was made by following along with the video se
       </td>
       <!-- Video 3 -->
       <td align="center">
-        <a href="">
+        <a href="https://www.youtube.com/watch?v=a50fz6oiLCQ">
           <img width="290" alt="Simply Notify" src="http://bitsofco.de/content/images/2017/09/Thumbnail-3.png">
           <br>
           Notification Subscriptions
@@ -42,7 +42,7 @@ You can watch how this application was made by following along with the video se
     <tr>
       <!-- Video 4 -->
       <td align="center">
-        <a href="">
+        <a href="https://www.youtube.com/watch?v=YCMtarwgNIo">
           <img width="290" alt="Simply Notify" src="http://bitsofco.de/content/images/2017/09/Thumbnail-4.png">
           <br>
           Creating & Saving Messages
@@ -50,7 +50,7 @@ You can watch how this application was made by following along with the video se
       </td>
       <!-- Video 5 -->
       <td align="center">
-        <a href="">
+        <a href="https://www.youtube.com/watch?v=rumJsnHbXsI">
           <img width="290" alt="Simply Notify" src="http://bitsofco.de/content/images/2017/09/Thumbnail-5.png">
           <br>
           Sending Web Notifications
@@ -58,7 +58,7 @@ You can watch how this application was made by following along with the video se
       </td>
       <!-- Video 6 -->
       <td align="center">
-        <a href="">
+        <a href="https://www.youtube.com/watch?v=4BJ-Ey9aVrM">
           <img width="290" alt="Simply Notify" src="http://bitsofco.de/content/images/2017/09/Thumbnail-6.png">
           <br>
           Database Security & Optimisations
